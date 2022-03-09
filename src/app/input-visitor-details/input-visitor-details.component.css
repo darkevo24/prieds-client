@@ -1,0 +1,27 @@
+h3 {
+    margin : 10px;
+}
+select {
+    width : 100%;
+    margin : 10px;
+    height : 40px;
+}
+input {
+    width : 90%;
+    margin : 10px;
+    height : 40px;
+}
+#left {
+    width : 50%;
+}
+#right {
+    width : 50%;
+}
+#input {
+    display : flex;
+}
+button {
+    margin : 10px;
+    background-color: rgb(27, 125, 190);
+    color : white;
+}
